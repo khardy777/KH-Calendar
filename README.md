@@ -7,7 +7,7 @@ v1.0
 ## Purpose
 
 The KH Calendar Builder downloads Forex Factory economic calendar data,
-filters only the events required for the MES Strategy,
+filters only the events required,
 classifies events,
 and generates TradingView compatible data.
 

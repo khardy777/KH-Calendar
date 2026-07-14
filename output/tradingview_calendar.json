@@ -1,0 +1,30 @@
+[
+    {
+        "event": "CPI",
+        "priority": "Critical",
+        "group": "Inflation",
+        "start": 1784074500000,
+        "end": 1784075700000
+    },
+    {
+        "event": "Core CPI",
+        "priority": "Critical",
+        "group": "Inflation",
+        "start": 1784074500000,
+        "end": 1784075700000
+    },
+    {
+        "event": "Unknown",
+        "priority": "Normal",
+        "group": "Unclassified",
+        "start": 1784161800000,
+        "end": 1784161800000
+    },
+    {
+        "event": "NFP",
+        "priority": "Critical",
+        "group": "Employment",
+        "start": 1784247300000,
+        "end": 1784248500000
+    }
+]

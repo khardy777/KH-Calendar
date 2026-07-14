@@ -1,0 +1,38 @@
+[
+    {
+        "event": "CPI",
+        "source_event": "CPI m/m",
+        "currency": "USD",
+        "priority": "Critical",
+        "group": "Inflation",
+        "risk_start": "2026-07-15 08:15",
+        "risk_end": "2026-07-15 08:35"
+    },
+    {
+        "event": "Core CPI",
+        "source_event": "Core CPI m/m",
+        "currency": "USD",
+        "priority": "Critical",
+        "group": "Inflation",
+        "risk_start": "2026-07-15 08:15",
+        "risk_end": "2026-07-15 08:35"
+    },
+    {
+        "event": "Unknown",
+        "source_event": "Retail Sales m/m",
+        "currency": "USD",
+        "priority": "Normal",
+        "group": "Unclassified",
+        "risk_start": "2026-07-16 08:30",
+        "risk_end": "2026-07-16 08:30"
+    },
+    {
+        "event": "NFP",
+        "source_event": "Non-Farm Employment Change",
+        "currency": "USD",
+        "priority": "Critical",
+        "group": "Employment",
+        "risk_start": "2026-07-17 08:15",
+        "risk_end": "2026-07-17 08:35"
+    }
+]
